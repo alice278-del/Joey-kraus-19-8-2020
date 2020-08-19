@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Joey-Kraus-19-8-2020/static/css/main.b3d7b386.chunk.css",
+    "main.js": "/Joey-Kraus-19-8-2020/static/js/main.1166963f.chunk.js",
+    "main.js.map": "/Joey-Kraus-19-8-2020/static/js/main.1166963f.chunk.js.map",
+    "runtime-main.js": "/Joey-Kraus-19-8-2020/static/js/runtime-main.0534c8a1.js",
+    "runtime-main.js.map": "/Joey-Kraus-19-8-2020/static/js/runtime-main.0534c8a1.js.map",
+    "static/js/2.0a787867.chunk.js": "/Joey-Kraus-19-8-2020/static/js/2.0a787867.chunk.js",
+    "static/js/2.0a787867.chunk.js.map": "/Joey-Kraus-19-8-2020/static/js/2.0a787867.chunk.js.map",
+    "index.html": "/Joey-Kraus-19-8-2020/index.html",
+    "precache-manifest.0e0c42c62c8664ed60918e9c7f18e6c4.js": "/Joey-Kraus-19-8-2020/precache-manifest.0e0c42c62c8664ed60918e9c7f18e6c4.js",
+    "service-worker.js": "/Joey-Kraus-19-8-2020/service-worker.js",
+    "static/css/main.b3d7b386.chunk.css.map": "/Joey-Kraus-19-8-2020/static/css/main.b3d7b386.chunk.css.map",
+    "static/js/2.0a787867.chunk.js.LICENSE.txt": "/Joey-Kraus-19-8-2020/static/js/2.0a787867.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0534c8a1.js",
+    "static/js/2.0a787867.chunk.js",
+    "static/css/main.b3d7b386.chunk.css",
+    "static/js/main.1166963f.chunk.js"
+  ]
+}
